@@ -1,0 +1,21 @@
+{
+  "name": "home-design-integration",
+  "version": "1.0.0",
+  "description": "Intégration d'une maquette pour un site de home design",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./assets/sass/style.scss:./assets/css/style.css --style expanded",
+    "prefix": "postcss ./assets/css/style.css --use autoprefixer -d ./assets/css/prefixed/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-BastienPruvost/home-design-integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-BastienPruvost/home-design-integration/issues"
+  },
+  "homepage": "https://github.com/Dev-BastienPruvost/home-design-integration#readme",
+  "browserslist": "last 4 versions"
+}

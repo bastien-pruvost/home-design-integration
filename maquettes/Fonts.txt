@@ -1,0 +1,9 @@
+css :
+
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Bitter&family=Satisfy&display=swap');
+
+names :
+
+font-family: 'Balsamiq Sans', cursive;
+font-family: 'Bitter', serif;
+font-family: 'Satisfy', cursive;
