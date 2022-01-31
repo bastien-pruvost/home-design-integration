@@ -1,7 +1,7 @@
 {
   "name": "home-design-integration",
   "version": "1.0.0",
-  "description": "Intégration d'une maquette pour un site de home design",
+  "description": "Integration of a model for a home-design website",
   "main": "index.js",
   "scripts": {
     "sass": "sass --watch ./assets/sass/style.scss:./assets/css/style.css --style expanded",
