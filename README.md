@@ -1,4 +1,5 @@
 # Integration - Home Design website
+<a href="https://home-design.pruvostbastien.fr/" target="_blank"><img src="https://img.shields.io/badge/ctrl_%2B_click_here_to_see_the_website-324050?style=for-the-badge&logo=github&logoColor=white" /></a>
   
 ## Integration of a model found on Pinterest, for a home-design website.
 Always in order to progress in css, I used Grid, Flexbox and animations.
