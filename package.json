@@ -1,8 +1,8 @@
 {
   "name": "home-design-integration",
   "version": "1.0.0",
-  "description": "Integration of a model for a home-design website",
-  "main": "index.js",
+  "description": "Integration of a model found on Pinterest, for a home-design-integration website.",
+  "main": "index.html",
   "scripts": {
     "sass": "sass --watch ./assets/sass/style.scss:./assets/css/style.css --style expanded",
     "prefix": "postcss ./assets/css/style.css --use autoprefixer -d ./assets/css/prefixed/"
